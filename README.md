@@ -1,2 +1,3 @@
 # hello-world
-just the initial repository
+
+Hi~ I'm focus leeee, I hope to study github for my course!
